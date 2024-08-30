@@ -1,5 +1,5 @@
 - 👋 Hi, I’m wh1d3
-- 👀 I’m interested in Front-End and Game Development
+- 👀 I’m interested in Front-End, Game Development and making Telegram Bots
 - 🌱 I’m currently learning JavaScript, C# and C++
 - 📫 How to reach me - [Telegram](#t.me/wh1d3) or [E-Mail](#shnurkovik@gmail.com)
 
